@@ -1,11 +1,11 @@
 [
   {
-    "question": "what color is an apple".
+    "question": "what color is an apple",
     "answers":["Blue","Red","Pruple"],
     "correct": 1
     },
   {
-    "question": "what color is the grass".
+    "question": "what color is the grass",
     "answers":["Green","Red","Pruple"],
     "correct": 0
   }
