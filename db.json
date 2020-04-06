@@ -1,12 +1,12 @@
 [
   {
     "question": "what color is an apple",
-    "answers":["Blue","Red","Pruple"],
+    "answers":["Blue","Red","Purple"],
     "correct": 1
-    },
+  },
   {
     "question": "what color is the grass",
-    "answers":["Green","Red","Pruple"],
+    "answers":["Green","Red","Purple"],
     "correct": 0
   }
  ]
