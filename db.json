@@ -1,4 +1,5 @@
-[
+{
+  "myObj":[
   {
     "question": "what color is an apple",
     "answers":["Blue","Red","Purple"],
@@ -10,4 +11,4 @@
     "correct": 0
   }
  ]
-    
+}   
