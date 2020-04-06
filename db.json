@@ -1,5 +1,5 @@
-[
-  {
+{
+  "quiz1":[{
     "question": "what color is an apple",
     "answers":[
       "Blue",
@@ -18,3 +18,4 @@
     "correct": 0
   }
  ]
+}
