@@ -203,7 +203,7 @@
       "question": "Given a class named student, which of the following is a valid constructor declaration for the class?",
       "type": "multiple choice",
       "choices": [
-        " Student (student s) { }",
+        "Student (student s) { }",
         "Student student ( ) { }",
         "Private final student ( ) { }",
         "Void student ( ) { }",
