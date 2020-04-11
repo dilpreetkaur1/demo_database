@@ -145,7 +145,7 @@
       "choices": [],
       "answer": "final",
       "correct": 0,
-      "explanation": "final prevents methods from overriding"
+      "explanation": "Final prevents methods from overriding"
     },
     {
       "question": "Break statement can be used as labels in Java",
@@ -228,7 +228,7 @@
       "explanation": " Queue is a member of the java.lang package"
     },
     {
-      "question": "Given the code\n\nString s1 = ”hi” ;\nString s2 = ”hi” ;\nString s3 = new String ( s1);\n\nWhich of the following would be true?",
+      "question": "Given the code\n\nString s1 = ”Hi” ;\nString s2 = ”Hi” ;\nString s3 = new String ( s1);\n\nWhich of the following would be true?",
       "type": "multiple choice",
       "choices": [
         "s1 == s2",
@@ -239,7 +239,7 @@
       ],
       "answer": "s1 == s2",
       "correct": 0,
-      "explanation": "hi is equal to hi; hence true."
+      "explanation": "Hi is equal to Hi; hence true."
     }
   ]
 }
