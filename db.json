@@ -188,7 +188,7 @@
         "None of the above"
       ],
       "answer": " An interface can implement another interface.",
-      "correct": 0,
+      "correct": 2,
       "explanation": " An interface can not implement another interface."
     },
     {
