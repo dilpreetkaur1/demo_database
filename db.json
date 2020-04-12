@@ -167,7 +167,7 @@
       ],
       "answer": "false",
       "correct": 1,
-      "explanation": "Fale, Java does not allow Default Arguments."
+      "explanation": "False, Java does not allow Default Arguments."
     },
     {
       "question": "Which method of the Component class is used to set the position and size of a component?",
@@ -183,11 +183,11 @@
       "choices": [
         "An interface can extend another interface.",
         "A class which is implementing an interface must implement all the methods of the interface.",
-        " An interface can implement another interface.",
+        "An interface can implement another interface.",
         "An interface is a solution for multiple inheritance in java",
         "None of the above"
       ],
-      "answer": " An interface can implement another interface.",
+      "answer": "An interface can implement another interface.",
       "correct": 2,
       "explanation": " An interface can not implement another interface."
     },
