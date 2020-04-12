@@ -52,7 +52,7 @@
       ],
       "answer": "false",
       "correct": 1,
-      "explanation": "No, it's not possible to accessed outside it's package."
+      "explanation": "False, it's not possible to accessed outside it's package."
     },
     {
       "question": "Which is NOT an advantage of Java sockets?",
@@ -76,7 +76,7 @@
       ],
       "answer": "true",
       "correct": 0,
-      "explanation": "Polymorphism is the ability of an object to take on many forms."
+      "explanation": "True, Polymorphism is the ability of an object to take on many forms."
     },
     {
       "question": "An interface is a collection of abstract methods.",
@@ -87,7 +87,7 @@
       ],
       "answer": "true",
       "correct": 0,
-      "explanation": "An interface is a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface."
+      "explanation": "True, an interface is a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface."
     },
     {
       "question": "What is Multiple Inheritance?",
@@ -121,7 +121,7 @@
         1,
         2
       ],
-      "explanation": "A constructor is used is all those three ways"
+      "explanation": "A constructor must have the same name as the class it is declared within, is used to create objects, and may be declared private"
     },
     {
       "question": "Fill in the blank",
@@ -156,7 +156,7 @@
       ],
       "answer": "true",
       "correct": 0,
-      "explanation": "Yes; ex. break one;"
+      "explanation": "True; ex. break one;"
     },
     {
       "question": "Java allows Default Arguments",
@@ -167,7 +167,7 @@
       ],
       "answer": "false",
       "correct": 1,
-      "explanation": "Java does not allow Default Arguments."
+      "explanation": "Fale, Java does not allow Default Arguments."
     },
     {
       "question": "Which method of the Component class is used to set the position and size of a component?",
@@ -211,7 +211,7 @@
       ],
       "answer": "Student (student s) { }",
       "correct": 0,
-      "explanation": " This is a valid constructor declaration for the class"
+      "explanation": "Student (student s) { } is a valid constructor declaration for the class"
     },
     {
       "question": "Which of the following is a member of the java.lang package?",
@@ -239,7 +239,7 @@
       ],
       "answer": "s1 == s2",
       "correct": 0,
-      "explanation": "Hi is equal to Hi; hence true."
+      "explanation": "s1 == s2; Hi is equal to Hi; hence true."
     }
   ]
 }
